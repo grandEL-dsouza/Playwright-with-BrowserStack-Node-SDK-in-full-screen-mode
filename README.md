@@ -1,0 +1,1 @@
+# Playwright-with-BrowserStack-Node-SDK-in-full-screen-mode
