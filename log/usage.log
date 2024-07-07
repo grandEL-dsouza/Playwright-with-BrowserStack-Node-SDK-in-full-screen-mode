@@ -1,0 +1,18 @@
+2024-07-08 00:53:29 - [32minfo[39m: Reading configs from /Users/grandelrobert/Desktop/node-js-playwright-browserstack/browserstack.yml
+2024-07-08 00:53:29 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-07-08 00:54:06 - [32minfo[39m: Visit https://observability.browserstack.com/builds/muwosbli5dxkgelj2kbdomcm8erhg5k5wmjtwylq to view build report, insights, and many more debugging information all at one place!
+
+2024-07-08 00:54:06 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2024-07-08 00:54:08 - [32minfo[39m: Deleting /Users/grandelrobert/Desktop/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2024-07-08 00:57:35 - [32minfo[39m: Reading configs from /Users/grandelrobert/Desktop/node-js-playwright-browserstack/browserstack.yml
+2024-07-08 00:57:35 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-07-08 00:57:38 - [32minfo[39m: Visit https://observability.browserstack.com/builds/xckzi1hk9cvaphdhafccximjpmzjhknewpwrni1r to view build report, insights, and many more debugging information all at one place!
+
+2024-07-08 00:57:39 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2024-07-08 00:57:40 - [32minfo[39m: Deleting /Users/grandelrobert/Desktop/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
+2024-07-08 01:01:09 - [32minfo[39m: Reading configs from /Users/grandelrobert/Desktop/node-js-playwright-browserstack/browserstack.yml
+2024-07-08 01:01:09 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-07-08 01:01:41 - [32minfo[39m: Visit https://observability.browserstack.com/builds/v6casi1zhr7z5wmnlp9ioxrrubkmkwwvpijovn2q to view build report, insights, and many more debugging information all at one place!
+
+2024-07-08 01:01:41 - [33mwarn[39m: Unable to show build URL, as build capability is not used
+2024-07-08 01:01:42 - [32minfo[39m: Deleting /Users/grandelrobert/Desktop/node-js-playwright-browserstack/playwright-browserstack-sdk.config.js
