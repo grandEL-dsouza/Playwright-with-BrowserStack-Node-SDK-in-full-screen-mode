@@ -9,7 +9,7 @@
     "postinstall": "npm update browserstack-node-sdk"
   },
   "keywords": [],
-  "author": "",
+  "author": "grandel",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "latest",
